@@ -1,0 +1,35 @@
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+
+	color: black;
+	font-size: 14px;
+	font-family: "宋体";
+}
+img,input{
+	padding: 0;
+	margin: 0;
+	border: 0 none;
+	outline-style: none;
+	vertical-align: top;
+}
+a{
+	text-decoration: none;
+	color: ;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clearfix::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.w{
+	width: 1200px;
+	margin: 0 auto;
+}

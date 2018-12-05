@@ -1,0 +1,149 @@
+.header{
+	width: 100%;
+	height: 30px;
+	background-color: #fff;
+}
+.wenzi a{
+	line-height: 30px;
+	color: #aaaaaa;
+	float: left;
+}
+.header-nav{
+	width: 100%;
+	height: 80px;
+	background-color: #2e3340;
+}
+.tip{
+	float: left;
+	margin-top: 14px;
+}
+.tip h2{
+	font-size: 20px;
+}
+.tip a{
+	color: #fff;
+	margin-bottom: 18px;
+}
+.nav-list li{
+	float: left;
+	margin-left: 60px;
+	margin-top: 30px;
+	font-size: 16px;
+}
+.shouye{
+	height: 56px;
+}
+.shouye a{
+	color: black;
+	font-size: 16px;
+	line-height: 56px;
+}
+
+.box{
+	margin-top: 20px;
+	width: 1155px;
+	height: 480px;
+	background-color: #f6f6f6;
+	padding-left: 45px;
+	padding-top: 84px;
+	margin-bottom: 53px;
+}
+.box p{
+	text-align: center;
+}
+.box p a{
+	color: #323846;
+}
+
+.box .box1{
+	width: 838px;
+	height: 380px;
+	border-left: 1px solid #5b606b;
+}
+.box1 .title{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.title h2{
+	font-size: 20px;
+}
+.shiping{
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.shiping1{
+	margin-right: 10px;
+}
+.shiping2{
+	margin-right: 10px;
+}
+/*结尾部分*/
+.footer{
+	height: 360px;
+	background-color: #2e3340;
+	overflow: hidden;
+	position: relative;
+}
+.foot-list{
+	width: 880px;
+	
+}
+.foot-list dl{
+	margin-top: 38px;
+	margin-right: 100px;
+}
+.foot-list dl dt{
+	font-size: 16px;
+	color: #fff;
+}
+.foot-list dl dd{
+	/*line-height: 60px;*/
+	margin: 16px 0;
+}
+.list-g{
+	margin-top: 38px;
+}
+.list-g h3{
+	font-size: 16px;
+	color: #fff;
+	margin-left: 30px;
+}
+.list-g img{
+	margin-top: 30px;
+}
+
+.list-k{
+	margin-top: 38px;
+	margin-left: 68px;
+}
+.list-k h3{
+	font-size: 16px;
+	color: #fff;
+	margin-left: 20px;
+}
+.list-k img{
+	margin-top: 30px;
+}
+
+.lianxi{
+	/*width: 289px;*/
+	height: 195px;
+	border-left: 1px solid #48526c;
+	position: absolute;
+	right: 100px;
+	top: 30px;
+	
+}
+.lianxi p {
+	line-height: 23px;
+	margin-left: 50px;
+
+}
+.lianxi a{
+	color: #b0bcd0;
+}
+.last{
+	text-align: center;
+	margin-top: 63px;
+	line-height: 25px;
+}
